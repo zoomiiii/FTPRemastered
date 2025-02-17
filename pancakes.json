@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Classic Pancake",
+    "image": "rbxassetid://123456789",
+    "rarity": "Common",
+    "canobtain": true,
+    "hint": "Look in the kitchen!",
+    "badgeid": 12345678,
+    "description": "A simple pancake."
+  },
+  {
+    "name": "Golden Pancake",
+    "image": "rbxassetid://987654321",
+    "rarity": "Legendary",
+    "canobtain": false,
+    "hint": "Only given in events!",
+    "badgeid": 87654321,
+    "description": "A rare golden pancake."
+  }
+]
