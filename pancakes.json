@@ -1,18 +1,18 @@
 [
   {
-    "name": "Classic Pancake",
+    "name": "Pancake",
     "image": "http://www.roblox.com/asset/?id=18516096736",
-    "rarity": "Common",
+    "rarity": "toddler",
     "canobtain": true,
-    "hint": "Look in the kitchen!",
+    "hint": "bro",
     "badgeid": 12345678,
-    "description": "A simple pancake.",
+    "description": "the [Pancake] of all time",
     "series": null,
     "realm": null,
     "istroll": null
   },
   {
-    "name": "Classica Pancake",
+    "name": "PanPanCake",
     "image": "http://www.roblox.com/asset/?id=18516096736",
     "rarity": "Commoner",
     "canobtain": true,
